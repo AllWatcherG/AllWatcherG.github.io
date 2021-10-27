@@ -8,4 +8,14 @@ body {
     height:100vh;
     display: flex;
 }
-        
+h1 {
+    font-size: 72px;
+    background: -webkit-linear-gradient(rgb(39, 105, 247), rgb(236, 49, 49));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  h5{
+    background: -webkit-linear-gradient(rgb(39, 105, 247), rgb(236, 49, 49));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }        
