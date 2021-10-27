@@ -4,5 +4,8 @@
 body {
     background-image: url(Spidey_Bac.jpg);
     Background-size: cover;
+    background-position: center;
+    height:100vh;
+    display: flex;
 }
         
